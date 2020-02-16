@@ -24,7 +24,7 @@ _Dra. Maria Florencia D'Andrea - [INTA - CONICET.](https://flor14.github.io/onli
  
 #### Filminas
 
-[Filminas introductorias](https://github.com/flor14/r_cai_2019/blob/curso/Curso_parte1_CAI_2019.pdf?raw=TRUE) 
+[Filminas introductorias](https://flor14.github.io/intro_r/intro_r.html) 
 
 [DEMO 1 - RStudio y Proyectos](https://github.com/flor14/r_cai_2019/blob/curso/r_rstudio_proyectos_CAI.R)
 
@@ -34,7 +34,7 @@ _Dra. Maria Florencia D'Andrea - [INTA - CONICET.](https://flor14.github.io/onli
 
 [Filminas dia 3]() 
 
-[Filminas visualizacion]() 
+[Filminas visualizacion](https://flor14.github.io/visualizacion_2020/visualizacion#1) 
 
 [DEMO 4 - Mapas y plotly](https://github.com/flor14/r_cai_2019/blob/curso/muestra_mapas_plotly_CAI.R)
 
