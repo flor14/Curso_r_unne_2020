@@ -1,35 +1,21 @@
-# Introducción al lenguaje R
+# R para Análisis de Datos
 
-17 de septiembre de 2019 - Universidad Nacional de Salta  
+17 al 23 de febrero - Universidad Nacional del Nordeste
 
 [Tutorial de las 48 JAIIO](http://48jaiio.sadio.org.ar/Simposios/Tutoriales)
 
 ----------
 
-_Mg. Yanina Bellini Saibene - [INTA Anguil.](https://inta.gob.ar/personas/bellini.yanina)_ 
-<a href="https://twitter.com/yabellini" class="twitter-follow-button" data-show-count="false">Twitter</a>
+_Dra. Roxana Villafañe - [LEMyP](roxananoelia.netlify.com)_ 
+<a href="https://twitter.com/data_datum" class="twitter-follow-button" data-show-count="false">Twitter</a>
 
-_Dra. Maria Florencia D'Andrea - [Instituto de Recursos Biológicos.](https://inta.gob.ar/personas/dandrea.florencia)_
+_Dra. Maria Florencia D'Andrea - [INTA - CONICET.](https://flor14.github.io/online-cv-es/)_
 <a href="https://twitter.com/cantoflor_87" class="twitter-follow-button" data-show-count="false">Twitter</a>
 
 ----------
 <img src="https://github.com/flor14/r_cai_2019/blob/master/flyer.jpg?raw=TRUE">  
 
 
-----------
-## Cronograma
-
-9 hs
-
-- Introducción y tidyverse. 
-- Trabajar con Proyectos.
-
-10.30 - 11 hs. (Intervalo)
-
-- Gráficos. Ggplot2 y RMarkdown.
-- Sacar un DOI a un dataset.
-
-13 hs
 
 ----------
 ## Material del curso
@@ -38,23 +24,21 @@ _Dra. Maria Florencia D'Andrea - [Instituto de Recursos Biológicos.](https://in
  
 #### Filminas
 
-[Filminas parte 1](https://github.com/flor14/r_cai_2019/blob/curso/Curso_parte1_CAI_2019.pdf?raw=TRUE) 
+[Filminas introductorias](https://github.com/flor14/r_cai_2019/blob/curso/Curso_parte1_CAI_2019.pdf?raw=TRUE) 
 
-[Filminas parte 2](https://github.com/flor14/r_cai_2019/blob/curso/Curso_parte2_CAI_2019_yani.pdf?raw=TRUE) 
+[DEMO 1 - RStudio y Proyectos](https://github.com/flor14/r_cai_2019/blob/curso/r_rstudio_proyectos_CAI.R)
 
-[Live coding 1 - RStudio y Proyectos](https://github.com/flor14/r_cai_2019/blob/curso/r_rstudio_proyectos_CAI.R)
+[DEMO 2 - Pipes y Tidyverse](https://github.com/flor14/r_cai_2019/blob/curso/df_pipes_tidyverse_CAI.R)
 
-[Live coding 2 - Pipes y Tidyverse](https://github.com/flor14/r_cai_2019/blob/curso/df_pipes_tidyverse_CAI.R)
+[Filminas dia 2]() 
 
-[Live coding 3 - Gráficos 1](https://github.com/flor14/r_cai_2019/blob/curso/Graficos_Parte1_CAI.R)
+[Filminas dia 3]() 
 
-[Live coding 4 - Gráficos 2](https://github.com/flor14/r_cai_2019/blob/curso/Graficos_Parte2_CAI.R)
+[Filminas visualizacion]() 
 
-[Live coding 5 - Gráficos 3](https://github.com/flor14/r_cai_2019/blob/curso/Graficos_Parte3.R)
+[DEMO 4 - Mapas y plotly](https://github.com/flor14/r_cai_2019/blob/curso/muestra_mapas_plotly_CAI.R)
 
-[Live coding 6 - Mapas y plotly](https://github.com/flor14/r_cai_2019/blob/curso/muestra_mapas_plotly_CAI.R)
 
-[Base de datos](https://github.com/flor14/r_cai_2019/blob/curso/gapminder.csv)
 
 Parte práctica [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/flor14/r_cai_2019/curso?urlpath=rstudio)
 
@@ -97,18 +81,17 @@ Parte práctica [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinde
  
  * [R-Ladies Global](https://rladies.org/) 
  * [R-Ladies Buenos Aires (twitter)](https://twitter.com/rladiesba?lang=es) 
- * [R-Ladies Santa Rosa (twitter)](https://twitter.com/RLadiesSR) 
+ * [R-Ladies Rcia-Ctes (twitter)](https://twitter.com/RLadiesSR) 
  * [R-Spatial en español (grupo de Telegram)](https://web.telegram.org/#/im?p=@rspatial_es)
  * [R en Buenos Aires](https://renbaires.github.io/)
  * [ROpenSci](https://ropensci.org/)
  * [R4DS en Español (twitter)](https://twitter.com/r4ds_es?lang=es)
  * [The Carpentries](https://carpentries.org/)
  
-## Congresos regionales
+## Congresos 
  
  * [LatinR](http://latin-r.com)
- * [Congreso Argentino de Agroinformática](http://48jaiio.sadio.org.ar/simposios/CAI)
- 
+  
 ## Encuesta final
 
 Te pedimos si pudieses contestar esta breve encuesta como devolución del curso. ¡Gracias por asistir!
