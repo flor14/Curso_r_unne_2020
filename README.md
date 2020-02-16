@@ -2,7 +2,7 @@
 
 17 al 23 de febrero - Universidad Nacional del Nordeste
 
-[Tutorial de las 48 JAIIO](http://48jaiio.sadio.org.ar/Simposios/Tutoriales)
+[Programa del curso]()
 
 ----------
 
