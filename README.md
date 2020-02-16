@@ -13,7 +13,7 @@ _Dra. Maria Florencia D'Andrea - [INTA - CONICET.](https://flor14.github.io/onli
 <a href="https://twitter.com/cantoflor_87" class="twitter-follow-button" data-show-count="false">Twitter</a>
 
 ----------
-<img src="https://github.com/flor14/r_cai_2019/blob/master/flyer.jpg?raw=TRUE">  
+<img src="">  
 
 
 
