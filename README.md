@@ -1,6 +1,6 @@
 # R para Análisis de Datos
 
-17 al 23 de febrero - Universidad Nacional del Nordeste
+17 al 23 de febrero 2020 - Universidad Nacional del Nordeste
 
 [Programa del curso]()
 
