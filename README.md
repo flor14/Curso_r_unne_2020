@@ -12,15 +12,11 @@ _Dra. Roxana Noelia Villafañe - [LEMyP](roxananoelia.netlify.com)_
 _Dra. Maria Florencia D'Andrea - [INTA - CONICET](https://flor14.github.io/online-cv-es/)_
 <a href="https://twitter.com/cantoflor_87" class="twitter-follow-button" data-show-count="false">Twitter</a>
 
-_Lic. en Sistemas Patricia Loto - [Lotería Chaqueña]_
+_Lic. en Sistemas Patricia Loto - _Lotería Chaqueña_
 <a href="https://twitter.com/patriloto" class="twitter-follow-button" data-show-count="false">Twitter</a>
 
 ----------
-<img src="">  
 
-
-
-----------
 ## Material del curso
 #### ¿Cómo instalar R y RStudio? 
  Para una mejor experiencia sugerimos acercarse con una computadora personal con R y RStudio instalados (pero esto no es excluyente). Información en este [Link](https://github.com/pachamaltese/tutoriales/blob/master/2019-04-24-instalar-r.md) para distintos sistemas operativos.
@@ -29,9 +25,9 @@ _Lic. en Sistemas Patricia Loto - [Lotería Chaqueña]_
 
 [Filminas introductorias](https://flor14.github.io/intro_r/intro_r.html) 
 
-[DEMO 1 - RStudio y Proyectos](https://github.com/flor14/r_cai_2019/blob/curso/r_rstudio_proyectos_CAI.R)
+[DEMO 1 - RStudio y Proyectos]()
 
-[DEMO 2 - Pipes y Tidyverse](https://github.com/flor14/r_cai_2019/blob/curso/df_pipes_tidyverse_CAI.R)
+[DEMO 2 - Pipes y Tidyverse]()
 
 [Filminas dia 2]() 
 
@@ -43,7 +39,7 @@ _Lic. en Sistemas Patricia Loto - [Lotería Chaqueña]_
 
 
 
-Parte práctica [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/flor14/r_cai_2019/curso?urlpath=rstudio)
+Parte práctica [![Binder](https://mybinder.org/badge_logo.svg)]()
 
 <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.es_ES"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /> Las filminas y código asociado se encuentran bajo licencia <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.es_ES">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
@@ -84,7 +80,7 @@ Parte práctica [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinde
  
  * [R-Ladies Global](https://rladies.org/) 
  * [R-Ladies Buenos Aires (twitter)](https://twitter.com/rladiesba?lang=es) 
- * [R-Ladies Rcia-Ctes (twitter)](https://twitter.com/RLadiesSR) 
+ * [R-Ladies Rcia-Ctes (twitter)](https://twitter.com/RLadies_rciacte) 
  * [R-Spatial en español (grupo de Telegram)](https://web.telegram.org/#/im?p=@rspatial_es)
  * [R en Buenos Aires](https://renbaires.github.io/)
  * [ROpenSci](https://ropensci.org/)
