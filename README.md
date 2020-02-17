@@ -2,17 +2,15 @@
 
 17 al 21 de febrero 2020 - Universidad Nacional del Nordeste
 
-[Programa del curso]()
-
 ----------
 
-_Dra. Roxana Noelia Villafañe - [LEMyP](roxananoelia.netlify.com)_ 
+_Dra. Roxana Noelia Villafañe - [LEMyP](roxananoelia.netlify.com)_ - 
 <a href="https://twitter.com/data_datum" class="twitter-follow-button" data-show-count="false">Twitter</a>
 
-_Dra. Maria Florencia D'Andrea - [INTA - CONICET](https://flor14.github.io/online-cv-es/)_
+_Dra. Maria Florencia D'Andrea - [INTA - CONICET](https://flor14.github.io/online-cv-es/)_ - 
 <a href="https://twitter.com/cantoflor_87" class="twitter-follow-button" data-show-count="false">Twitter</a>
 
-_Lic. en Sistemas Patricia Loto - _Lotería Chaqueña_
+_Lic. Patricia Loto - _Lotería Chaqueña_ - 
 <a href="https://twitter.com/patriloto" class="twitter-follow-button" data-show-count="false">Twitter</a>
 
 ----------
@@ -25,18 +23,7 @@ _Lic. en Sistemas Patricia Loto - _Lotería Chaqueña_
 
 [Filminas introductorias](https://flor14.github.io/intro_r/intro_r.html) 
 
-[DEMO 1 - RStudio y Proyectos]()
-
-[DEMO 2 - Pipes y Tidyverse]()
-
-[Filminas dia 2]() 
-
-[Filminas dia 3]() 
-
 [Filminas visualizacion](https://flor14.github.io/visualizacion_2020/visualizacion#1) 
-
-[DEMO 4 - Mapas y plotly](https://github.com/flor14/r_cai_2019/blob/curso/muestra_mapas_plotly_CAI.R)
-
 
 
 Parte práctica [![Binder](https://mybinder.org/badge_logo.svg)]()
