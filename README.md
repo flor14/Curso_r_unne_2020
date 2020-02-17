@@ -25,6 +25,7 @@ _Lic. Patricia Loto - _Lotería Chaqueña_ -
 
 [Filminas visualizacion](https://flor14.github.io/visualizacion_2020/visualizacion#1) 
 
+[Práctica visualización](https://flor14.github.io/practica_vis.html)
 
 Parte práctica [![Binder](https://mybinder.org/badge_logo.svg)]()
 
