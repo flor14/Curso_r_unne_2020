@@ -10,7 +10,7 @@ _Dra. Roxana Noelia Villafañe - [LEMyP](roxananoelia.netlify.com)_ -
 _Dra. Maria Florencia D'Andrea - [INTA - CONICET](https://flor14.github.io/online-cv-es/)_ - 
 <a href="https://twitter.com/cantoflor_87" class="twitter-follow-button" data-show-count="false">Twitter</a>
 
-_Lic. Patricia Loto - _Lotería Chaqueña_ - 
+_Lic. Patricia Loto_ - _Lotería Chaqueña_ - 
 <a href="https://twitter.com/patriloto" class="twitter-follow-button" data-show-count="false">Twitter</a>
 
 ----------
