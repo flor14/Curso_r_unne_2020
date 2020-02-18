@@ -29,6 +29,8 @@ _Lic. Patricia Loto - _Lotería Chaqueña_ -
 
 [Trucos de dplyr](dplyr-trucos.utf8.pdf)
 
+[Dplyr Ejercicios 2](https://drive.google.com/file/d/1DZjmPdBUMi_qxSukn8CWhmrYjwDOIRsq/view?usp=sharing)
+
 [Filminas visualizacion](https://flor14.github.io/visualizacion_2020/visualizacion#1) 
 
 [Práctica visualización](https://flor14.github.io/Curso_r_unne_2020/practica_vis.html)
