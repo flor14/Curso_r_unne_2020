@@ -1,0 +1,76 @@
+---
+title: "practica_vis2"
+author: "Florencia D'Andrea"
+date: "18/2/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+```
+
+### Ejercicios
+Nos gustaría que puedas reproducir los siguentes gráficos realizados en base al dataset `iris`
+
+GRAFICO 1. Una vez que lo reproduzcas te pedimos que le agregues un título
+
+```{r cars, echo=FALSE}
+
+ggplot(iris, aes(x = Petal.Length, fill = Species))+
+  geom_histogram()
+
+#+labs(title = "hola")
+  
+```
+
+
+GRAFICO 2. Cambia la escala de colores elegida por otra y explica una razón por la que sería mejor
+
+
+```{r pressure, echo=FALSE}
+ggplot(iris, aes(Petal.Length, Sepal.Length, color = Species))+
+  geom_point()+
+  scale_color_brewer(palette = "YlOrRd")+
+  theme_dark()
+
+```
+
+GRAFICO 3. Una vez que hayas logrado reproducirlo, te pedimos que modifiques el código para que los 3 gráficos queden “apilados” en una única columna.
+
+```{r pressure3, echo=FALSE}
+ggplot(iris, aes(Petal.Length, Sepal.Length))+
+  geom_point()+
+  facet_wrap(~Species)+ # se agrega argumento ncol=1
+  theme_light()
+  
+```
+
+GRAFICO 4.Una vez que lo reproduzcas te pedimos que modifiques el código y coloques el eje y horizontal y el eje x vertical, o que “gires” el gráfico.
+
+```{r pressure4, echo=FALSE}
+ggplot(iris, aes(Petal.Length, Sepal.Length, color = Species))+
+  geom_boxplot()+
+  geom_jitter()+
+  theme_light()
+#+coord_flip()
+  
+```
+
+
+GRAFICO 5.  
+¿Que argumento podria usar para darle transparencia a los puntos? Busca la respuesta en internet.
+Utiliza un tamaño de puntos `size = 3`
+
+```{r pressur3334, echo=FALSE}
+ggplot(data = iris, aes(x = Sepal.Length, y = Sepal.Width)) + 
+    geom_point(aes(color=Species, shape=Species), size = 3) +
+  theme_classic()
+
+```
+
+
+
+
+
+
