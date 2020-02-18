@@ -23,6 +23,12 @@ _Lic. Patricia Loto - _Lotería Chaqueña_ -
 
 [Filminas introductorias](https://flor14.github.io/intro_r/intro_r.html) 
 
+[Filminas tidyr](https://drive.google.com/file/d/1UlnDlTe1Mn-U4eSBS5fzZJ_4xABuO9jL/view?usp=sharing)
+
+[Práctica dplyr](dplyr-ejercicios.utf8.pdf)
+
+[Trucos de dplyr](dplyr-trucos.utf8.pdf)
+
 [Filminas visualizacion](https://flor14.github.io/visualizacion_2020/visualizacion#1) 
 
 [Práctica visualización](https://flor14.github.io/Curso_r_unne_2020/practica_vis.html)
