@@ -23,7 +23,7 @@ _Lic. Patricia Loto - _Lotería Chaqueña_ -
 
 [Filminas introductorias](https://flor14.github.io/intro_r/intro_r.html) 
 
-[Filminas tidyr](https://drive.google.com/file/d/1UlnDlTe1Mn-U4eSBS5fzZJ_4xABuO9jL/view?usp=sharing)
+[Filminas manejo y ordenamiento de datos](https://drive.google.com/file/d/1UlnDlTe1Mn-U4eSBS5fzZJ_4xABuO9jL/view?usp=sharing)
 
 [Práctica dplyr](dplyr-ejercicios.utf8.pdf)
 
