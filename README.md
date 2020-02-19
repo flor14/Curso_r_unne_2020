@@ -66,7 +66,7 @@ Parte práctica [![Binder](https://mybinder.org/badge_logo.svg)]()
 ##### Visualización
 
 * [Winston Chang R Graphics Cookbook](http://www.cookbook-r.com/)
-* [Fundamentals of Data Visualization de Claus O. Wilke.](Link: https://serialmentor.com/dataviz/)
+* [Fundamentals of Data Visualization de Claus O. Wilke](https://serialmentor.com/dataviz/)
 * [Socviz de Kieran Healy](https://socviz.co/)
 * [Highcharter: graficos interactivos](http://jkunst.com/highcharter/)
 * [Cowplot: ordenando graficos en grillas](https://wilkelab.org/cowplot/articles/plot_grid.html)
