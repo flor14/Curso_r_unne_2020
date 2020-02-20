@@ -35,6 +35,8 @@ _Lic. Patricia Loto_ - _Lotería Chaqueña_ -
 
 [Práctica visualización](https://flor14.github.io/Curso_r_unne_2020/practica_vis_funciona.html)
 
+[Filminas Modelado](https://drive.google.com/file/d/1nz-0iMlENjIc9p5JvLzlh5OGBObGqgiT/view?usp=sharing)
+
 Parte práctica [![Binder](https://mybinder.org/badge_logo.svg)]()
 
 <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.es_ES"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /> Las filminas y código asociado se encuentran bajo licencia <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.es_ES">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
