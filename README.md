@@ -103,10 +103,7 @@ Parte práctica [![Binder](https://mybinder.org/badge_logo.svg)]()
  
  * [LatinR](http://latin-r.com)
   
-## Encuesta final
 
-Te pedimos si pudieses contestar esta breve encuesta como devolución del curso. ¡Gracias por asistir!
-[Encuesta final](https://forms.gle/rjZKb8NmuwSW7mwDA)
 
 
 
