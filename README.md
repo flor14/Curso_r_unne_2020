@@ -41,6 +41,8 @@ _Lic. Patricia Loto_ - _Lotería Chaqueña_ -
 
 [Resueltos Práctica de visualización / Práctica RMarkdown](https://github.com/flor14/Curso_r_unne_2020/blob/master/practica_vis_funciona.Rmd)
 
+[Manejando archivos con purrr](https://docs.google.com/presentation/d/10grHphosFSbLWmF29tS1kiCguiisBvb0RrsnQu1omGs/edit?usp=sharing)
+
 Parte práctica [![Binder](https://mybinder.org/badge_logo.svg)]()
 
 <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.es_ES"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /> Las filminas y código asociado se encuentran bajo licencia <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.es_ES">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
