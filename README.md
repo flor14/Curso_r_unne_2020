@@ -37,7 +37,7 @@ _Lic. Patricia Loto_ - _Lotería Chaqueña_ -
 
 [Filminas Modelado](https://drive.google.com/file/d/1nz-0iMlENjIc9p5JvLzlh5OGBObGqgiT/view?usp=sharing)
 
-[RMarkdown]
+[RMarkdown](https://drive.google.com/file/d/1olGAdrZcDPeijTIVfMQK4ZX_JM3F_Hbi/view?usp=sharing)
 
 [Resueltos Práctica de visualización / Práctica RMarkdown](https://github.com/flor14/Curso_r_unne_2020/blob/master/practica_vis_funciona.Rmd)
 
